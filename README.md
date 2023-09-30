@@ -62,7 +62,7 @@ I am going to post the homework assignments on the [course github page](https://
 
 There is no make-up for the homeworks. If you miss any of the homework deadline because of an emergency, do contact me to make an arrangement as soon as you can. If you miss any 2 of the homeworks, or if your total from homeworks is less than 35% you'll get a VF. If your final is less than 25%, or your total is less than 35% you'll receive an F. Note that the conditions for receiving a VF are both necessary and sufficient, while the conditions for receiving an F are only sufficient. This means you may still get an F with a higher score than 35% depending on the distribution of the scores.
 
-### The Final Project
+### Final Project
 
 For the final project, you will need to write a detailed project proposal (minimum 2000 words) by the midterm that need to include
 
