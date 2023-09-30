@@ -1,10 +1,9 @@
 # Introduction to Data Science 
-## (Fall 2023, MAT381E)
 
-|----------|----------------------------------------------------------------|
-| Lecturer | Atabey Kaygun                                                  |
-| Lectures | Mondays 14:30-17:30 (OBL2)                                     |
-|----------|----------------------------------------------------------------|
+## Fall 2023 (MAT381E)
+
+### Lecturer: Atabey Kaygun
+### Lectures: Mondays 14:30-17:30 (OBL2)
 
 ## Course Description
 
