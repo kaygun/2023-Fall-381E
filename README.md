@@ -1,14 +1,8 @@
----
-title: Introduction to Data Science 
-subtitle: (Fall 2023, MAT381E)
-author: Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr)
-date: Lectures Mondays 14:30-17:30 
-geometry:
-  - margin=20mm
-hyperrefoptions:
-  - linktoc=all
-  - pdfwindowui
-...
+# Introduction to Data Science 
+## (Fall 2023, MAT381E)
+
+| Lecturer | Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr) |
+| Lectures | Mondays 14:30-17:30                                            |
 
 ## Course Description
 
@@ -39,7 +33,7 @@ Installing and maintaining these systems on your machine is your responsibility.
 
 ## Course Management
 
-I will make all of the course related announcement on İTÜ's course management system [NINOVA](https://ninova.itu.edu.tr). I will post the grades on NINOVA as well. So, do check it regularly.
+The homeworks will be posted on the course github repository at I will make all of the course related announcement on İTÜ's course management system [NINOVA](https://ninova.itu.edu.tr). I will post the grades on NINOVA as well. So, do check it regularly.
 
 ### E-Mail Policy
 
