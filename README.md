@@ -1,8 +1,10 @@
 # Introduction to Data Science 
 ## (Fall 2023, MAT381E)
 
-| Lecturer | Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr) |
-| Lectures | Mondays 14:30-17:30                                            |
+|----------|----------------------------------------------------------------|
+| Lecturer | Atabey Kaygun                                                  |
+| Lectures | Mondays 14:30-17:30 (OBL2)                                     |
+|----------|----------------------------------------------------------------|
 
 ## Course Description
 
