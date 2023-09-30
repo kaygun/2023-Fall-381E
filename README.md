@@ -25,7 +25,7 @@ The course is an applied data analysis class.  This means the course requires a 
 * [Jupyter](https://jupyter.org/) notebook system
 * [Markdown](https://en.wikipedia.org/wiki/Markdown) markup language
 
-For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a **private** repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. So, you must share your the repository with me at (`atebey_kaygun@hotmail.com`) by October 9th. If you do not follow these instructions, I will deduct 5 points from your final grade.
+For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a **private** repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. So, you must share your the repository with me at (`atabey_kaygun@hotmail.com`) by October 9th. If you do not follow these instructions, I will deduct 5 points from your final grade.
 
 Installing and maintaining these systems on your machine is your responsibility. I can't help you if something doesn't work. You will need to figure it out on your own.  If you can't install these systems on your machine you may try to use an online service:
 
