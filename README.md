@@ -74,6 +74,8 @@ For the final project, you will need to write a detailed project proposal (minim
 
 The proposal will count towards 15% of your final grade. The project itself covers the remaining 40%.
 
+For the final project, students will be asked to submit a jupyter notebook. The notebook must contain the code and the analysis of your code and with the results. You must analyze and explain which the problem(s) you set out to solve, which of them you were able to solve, how you solved them, what difficulties and problems you have faced during the process and how you solved these difficulties in detail along with which problems you couldn't solve and why. I will also need a time and resource analysis: approximately how long it took to run you analyses, what computing resources (CPUs/GPUs, memory, and storage) available to you, and how much of it have you used.
+
 ### Final Exam
 
 By regulations I must give a final exam. But in the exam I will only ask you explain your final project.
